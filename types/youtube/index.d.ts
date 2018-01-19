@@ -11,7 +11,7 @@
  * @see https://developers.google.com/youtube/iframe_api_reference
  * @see https://developers.google.com/YouTube/player_parameters
  */
-declare namespace YT
+export module YT
 {
 	/**
 	 * State of a video player.
